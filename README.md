@@ -1,4 +1,4 @@
-# GitHub Repository Analyzer
+# Go GitHub Repository Analyzer
 
 A fast and concurrent Go application that analyzes popular GitHub repositories across multiple programming languages and generates insightful reports.
 
